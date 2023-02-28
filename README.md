@@ -1,4 +1,2 @@
 # Novo-curso
-teste
-teste2
-Teste3
+Testando o Readme.md
